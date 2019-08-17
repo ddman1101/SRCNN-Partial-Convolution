@@ -6,6 +6,8 @@ Using Partial Convolution with Zero-Padding in SRCNN
  * Scipy version > 0.18 ('mode' option from scipy.misc.imread function)
  * h5py
  * matplotlib
+ * numpy
+ * csv
 
 ## 使用
 For training, `python main.py --is_train True`
