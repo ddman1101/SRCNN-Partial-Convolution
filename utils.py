@@ -181,7 +181,7 @@ def input_setup(sess, config):
           sub_label_sequence.append(sub_label)
 
   else:
-    input_, label_ = preprocess(data[90], config.scale)
+    input_, label_ = preprocess(data[0], config.scale)
 
     if len(input_.shape) == 3:
       h, w, _ = input_.shape
