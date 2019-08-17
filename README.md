@@ -13,12 +13,13 @@ For training, `python main.py --is_train True`
 For testing, `python main.py --is_train False`
 
 ## 結果
-經過訓練15000次，達到效果如下：
+經過訓練15000次，達到效果如下：<br>
 ![Ground truth](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/padding_label.png)<br>
-Bicubic Interpolated image:
+Bicubic Interpolated image:<br>
 ![Bicubic Interpolation (2倍)](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/bi2_baby.png)<br>
-Super-resolved image:
+訓練0次:<br>
 ![SRCNN(Partial Convolution)-Training 0 epoch](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/set5-0-0.png)
+訓練15000次:<br>
 ![SRCNN(Partial Convolution)-Training 15000 epoch](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/set5-15000-0.png)
 
 ## 訓練時間以及使用電腦設備
