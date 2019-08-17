@@ -18,13 +18,15 @@ For testing, `python main.py --is_train False`
 Bicubic Interpolated image:<br>
 ![Bicubic Interpolation (2倍)](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/bi2_baby.png)<br>
 訓練0次:<br>
-![SRCNN(Partial Convolution)-Training 0 epoch](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/set5-0-0.png)
+![SRCNN(Partial Convolution)-Training 0 epoch](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/set5-0-0.png)<br>
 訓練15000次:<br>
 ![SRCNN(Partial Convolution)-Training 15000 epoch](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/set5-15000-0.png)
 
 ## 訓練時間以及使用電腦設備
-訓練15000次之時間：2小時15分鐘9秒
-CPU : i7-8750H 2.2GHz RAM : 32GB，GPU : RTX2080。
+訓練15000次之時間：2小時15分鐘9秒<br>
+CPU : i7-8750H 2.2GHz <br>
+RAM : 32GB <br>
+GPU : RTX2080。<br>
 
 ## 參考
 * [tegg89/SRCNN-Tensorflow](https://github.com/tegg89/SRCNN-Tensorflow) 
