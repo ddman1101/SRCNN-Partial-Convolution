@@ -1,5 +1,5 @@
 # SRCNN-Partial-Convolution
-Using Partial Convolution with Zero-Padding in SRCNN 
+Use Partial Convolution to solve SRCNN’s pixel loss of picture
 
 ## 必備
  * Tensorflow
@@ -32,4 +32,5 @@ GPU : RTX2080。<br>
 
 ## 參考
 * [tegg89/SRCNN-Tensorflow](https://github.com/tegg89/SRCNN-Tensorflow) 
+* [Use Partial Convolution to solve SRCNN’s pixel loss of picture](https://hdl.handle.net/11296/47v8gr)
 <br>
