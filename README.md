@@ -16,6 +16,7 @@ For testing, `python main.py --is_train False`
 
 ## 結果
 經過訓練15000次，達到效果如下：<br>
+Ground truth:
 ![Ground truth](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/padding_label.png)<br>
 Bicubic Interpolated image:<br>
 ![Bicubic Interpolation (2倍)](https://github.com/ddman1101/SRCNN-Partial-Convolution-/blob/master/bi2_baby.png)<br>
